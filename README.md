@@ -1,5 +1,5 @@
 #KWTree v0.1
----
+
 A nifty program to generate keyword trees based on input specified from the cli or an external file.
 
 ##Usage
@@ -12,3 +12,7 @@ optional arguments:
                         comma separated list of values or values separated on
                         a newline
   -v, --version         print the current version and exit
+
+##Screenshots
+
+!(example image)[https://www.dropbox.com/s/j17mhe1urplguhl/example.png]
