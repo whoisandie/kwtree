@@ -45,7 +45,11 @@ def makedict(l):
     root = l[i]
     for j in l[i+1:]:
       d[j] = [1,0]
-      val = [m==n for m,n in zip(root,j)].index(0)
+      try:
+        val = [m==n for m,n in zip(root,j)].index(0)
+      except ValueError:
+        val = 1
+        d[l[i+1]] = 0
       if val != '' and val != 0:
         d[j] = [0,val]
   d[l[0]] = [1,0]
