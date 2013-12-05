@@ -2,9 +2,11 @@
 
 A nifty program to generate keyword trees based on input specified from the cli or an external file.
 
+
+
 ##Usage
 
-usage: kwt [-h] [-f FILE] [-v]
+    ./kwt.py [-h] [-f FILE] [-v]
 
 optional arguments:
   -h, --help            show this help message and exit
@@ -15,4 +17,4 @@ optional arguments:
 
 ##Screenshots
 
-![example image](http://www.dropbox.com/s/j17mhe1urplguhl/example.png)
+![example image](https://www.dropbox.com/s/j17mhe1urplguhl/example.png)
