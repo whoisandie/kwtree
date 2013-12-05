@@ -17,4 +17,4 @@ optional arguments:
 
 ##Screenshots
 
-![example image](https://www.dropbox.com/l/5vdVHMELplQ6tqp4DNyFP31)
+![example image](http://www.whoisandie.com/projects/kwtree/example.png)
