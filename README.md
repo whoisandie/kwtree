@@ -17,4 +17,4 @@ optional arguments:
 
 ##Screenshots
 
-![example image](https://www.dropbox.com/s/j17mhe1urplguhl/example.png)
+![example image](https://www.dropbox.com/l/5vdVHMELplQ6tqp4DNyFP31)
