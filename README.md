@@ -3,7 +3,8 @@
 A nifty program to generate keyword trees based on input specified from the cli or an external file.
 
 ##Usage
-kwt [-h] [-f FILE] [-v]
+
+usage: kwt [-h] [-f FILE] [-v]
 
 optional arguments:
   -h, --help            show this help message and exit
